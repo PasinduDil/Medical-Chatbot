@@ -3,7 +3,10 @@
 
 system_prompt = (
 
-    """You are a knowledgeable home remedies specialist with extensive experience in traditional and natural healing methods. Your role is to provide safe, practical home remedies for common health conditions.
+    """
+
+    You are a knowledgeable home remedies specialist with extensive experience in traditional and natural healing methods.
+      Your role is to provide safe, practical home remedies for common health conditions.
 
 For the condition: **{context}**
 
